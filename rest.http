@@ -1,0 +1,52 @@
+
+
+### Traer los books
+GET http://localhost:1234/books
+
+### Traer los books por su ID
+GET http://localhost:1234/books/dabcc9f7-01f3-11ef-8981-00155dfef9aa
+
+### Traer title
+GET http://localhost:1234/books/title/1984
+
+
+### Recuperar todas las películas por género
+GET http://localhost:1234/books?genre=ficción
+
+### Recuperar los books por su title:
+
+### Recuperar todas las películas por title con search
+GET http://localhost:1234/books?genre=distopia&search=1984
+
+### Creando una pelócula
+
+POST http://localhost:1234/books
+Content-Type: application/json
+
+{
+    "title": "sadaasdsadsd",
+    "year": 1975,
+    "author": "Francis Ford Coppola",
+    "pages": 175,
+    "poster": "https://img.fruugo.com/product/4/49/14441494_max.jpg",
+    "rating": 9.0,
+    "genre": [
+        "Aventura",
+        "Drama"
+    ]
+}
+
+### Actualizar una película
+
+PATCH http://localhost:1234/books/5081d175-fe97-11ee-8a4f-00155dfef9aa
+Content-Type: application/json
+
+{
+    "title": "La ponchololo",
+    "author": "Karl Marx",
+    "pages": 100
+    
+}
+
+### Eliminar una película
+DELETE http://localhost:1234/books/35496190-fe94-11ee-8a4f-00155dfef9aa

@@ -1,0 +1,197 @@
+[
+    {
+        "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
+        "title": "El Alquimista",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "genre": [
+            "Ficción",
+            "Autoayuda"
+        ],
+        "pages": 197,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81QRyjfVxPL.jpg",
+        "rating": 4.2
+    },
+    {
+        "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
+        "title": "Cien años de soledad",
+        "author": "Gabriel García Márquez",
+        "year": 1967,
+        "genre": [
+            "Realismo mágico",
+            "Ficción"
+        ],
+        "pages": 417,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81ux%2BjHf%2BfL.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
+        "title": "La sombra del viento",
+        "author": "Carlos Ruiz Zafón",
+        "year": 2001,
+        "genre": [
+            "Misterio",
+            "Ficción"
+        ],
+        "pages": 521,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81ONVhZCMBL.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": "241bf55d-b649-4109-af7c-0e6890ded3fc",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": [
+            "Distopía",
+            "Ficción política"
+        ],
+        "pages": 328,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81wyjzfOCJL.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": "9e6106f0-848b-4810-a11a-3d832a5610f9",
+        "title": "Matar a un ruiseñor",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": [
+            "Novela",
+            "Drama"
+        ],
+        "pages": 281,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91jIrlDyJ5L.jpg",
+        "rating": 4.7
+    },
+    {
+        "id": "7e3fd5ab-60ff-4ae2-92b6-9597f0308d1",
+        "title": "El señor de los anillos: La comunidad del anillo",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "genre": [
+            "Fantasía",
+            "Aventura"
+        ],
+        "pages": 527,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81pIjEjFlHL.jpg",
+        "rating": 4.8
+    },
+    {
+        "id": "c906673b-3948-4402-ac7f-73ac3a9e3105",
+        "title": "Harry Potter y la piedra filosofal",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "genre": [
+            "Fantasía",
+            "Juvenil"
+        ],
+        "pages": 332,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91j3k6F%2Bl-L.jpg",
+        "rating": 4.9
+    },
+    {
+        "id": "b6e03689-cccd-478e-8565-d92f40813b13",
+        "title": "Crónica de una muerte anunciada",
+        "author": "Gabriel García Márquez",
+        "year": 1981,
+        "genre": [
+            "Ficción",
+            "Drama"
+        ],
+        "pages": 120,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91lF69q5jNL.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": "b6e03689-cccd-478e-8565-d92f40813b13",
+        "title": "Orgullo y prejuicio",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": [
+            "Romance",
+            "Clásico"
+        ],
+        "pages": 279,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71N2E7A-2ZL.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": "aa391090-b938-42eb-b520-86ea0aa3917b",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": [
+            "Novela",
+            "Juvenil"
+        ],
+        "pages": 234,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBLL.jpg",
+        "rating": 4.3
+    },
+    {
+        "id": "b1fd2cc8-0420-42a5-bae9-d24f5ed975a1",
+        "title": "Don Quijote de la Mancha",
+        "author": "Miguel de Cervantes",
+        "year": 1605,
+        "genre": [
+            "Novela",
+            "Parodia"
+        ],
+        "pages": 863,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71FL6b6u4cL.jpg",
+        "rating": 4.7
+    },
+    {
+        "id": "1a5e1697-2c02-49d0-9c95-5e019f1fc2bf",
+        "title": "Anna Karenina",
+        "author": "León Tolstói",
+        "year": 1877,
+        "genre": [
+            "Novela",
+            "Romance"
+        ],
+        "pages": 864,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71UkNhj5URL.jpg",
+        "rating": 4.5
+    },
+    {
+        "id": "fb8889f4-4e4a-4517-a5a2-6e276282a8cf",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": [
+            "Novela",
+            "Aventura"
+        ],
+        "pages": 752,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81-1umI2efL.jpg",
+        "rating": 4.4
+    },
+    {
+        "id": "13f87a92-9968-4700-b595-2052f8e057cf",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": [
+            "Novela",
+            "Romance"
+        ],
+        "pages": 279,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71N2E7A-2ZL.jpg",
+        "rating": 4.6
+    },
+    {
+        "id": "1b130f8d-3a63-4e9e-8c97-5ed09810c49e",
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "year": 1603,
+        "genre": [
+            "Tragedia",
+            "Drama"
+        ],
+        "pages": 432,
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81t-Bus1wuL.jpg",
+        "rating": 4.7
+    }
+]
